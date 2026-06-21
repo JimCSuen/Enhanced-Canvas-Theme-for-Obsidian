@@ -1,7 +1,6 @@
 {
-	"name": "Sample Theme",
-	"version": "1.0.0",
-	"minAppVersion": "1.0.0",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md"
+	"name": "Enhanced Canvas",
+	"version": "0.1.15",
+	"minAppVersion": "0.16.0",
+	"author": "Codex and James"
 }
