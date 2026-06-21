@@ -5,6 +5,7 @@
   A transplantation from the enhanced HubSpot Canvas theme for Visual Studio Code to Obsidian.
 </p>
 
+<img src="./image/README/theme.png">
 
 ## TL; NR
 
