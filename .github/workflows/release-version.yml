@@ -6,6 +6,9 @@ on:
     tags:
       - "*" # Push events to matching any tag format, i.e. 1.0, 20.15.10
 
+permission:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
