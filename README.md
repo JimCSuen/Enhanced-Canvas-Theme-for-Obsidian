@@ -1,11 +1,20 @@
 # Enhanced canvas theme for Obsidian
 
-
 <p align="center">
   A transplantation from the enhanced HubSpot Canvas theme for Visual Studio Code to Obsidian.
 </p>
 
 <img src="./image/README/theme.png">
+
+## Installation
+
+### Direct installatoin
+
+To install the theme
+
+* Open Obsidian Settings
+* Go to `Appearance` and click `Manage`
+* Under community themes search for "Enhanced Canvas" and click `Use`
 
 ## TL; NR
 
